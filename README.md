@@ -56,11 +56,11 @@ Kelas   : TI.2.A.4
 
   - file html [disini](about.html)
 
-  ![output](https://github.com/NurAkbarr/Lab4web/blob/d78a6bcee15db4ac36d8a868fe0d57d1150a9f13/img/11.png)
+  - [output](https://github.com/NurAkbarr/Lab4web/blob/d78a6bcee15db4ac36d8a868fe0d57d1150a9f13/img/11.png)
 
 2. Tambahkan layout untuk menu Contact
   => yang berisi form isian: nama, email, message, dll
 
   - file html [disini](kontak.html)
 
-  ![output](https://github.com/NurAkbarr/Lab4web/blob/d78a6bcee15db4ac36d8a868fe0d57d1150a9f13/img/12.png)
+  - [output](https://github.com/NurAkbarr/Lab4web/blob/d78a6bcee15db4ac36d8a868fe0d57d1150a9f13/img/12.png)
